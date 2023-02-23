@@ -1,0 +1,15 @@
+C:\Users\Minh\OneDrive\Desktop\ASM2 Design Pattern\ASM2 Design Pattern\bin\Debug\net6.0\ASM2 Design Pattern.exe
+C:\Users\Minh\OneDrive\Desktop\ASM2 Design Pattern\ASM2 Design Pattern\bin\Debug\net6.0\ASM2 Design Pattern.deps.json
+C:\Users\Minh\OneDrive\Desktop\ASM2 Design Pattern\ASM2 Design Pattern\bin\Debug\net6.0\ASM2 Design Pattern.runtimeconfig.json
+C:\Users\Minh\OneDrive\Desktop\ASM2 Design Pattern\ASM2 Design Pattern\bin\Debug\net6.0\ASM2 Design Pattern.dll
+C:\Users\Minh\OneDrive\Desktop\ASM2 Design Pattern\ASM2 Design Pattern\bin\Debug\net6.0\ASM2 Design Pattern.pdb
+C:\Users\Minh\OneDrive\Desktop\ASM2 Design Pattern\ASM2 Design Pattern\obj\Debug\net6.0\ASM2 Design Pattern.csproj.AssemblyReference.cache
+C:\Users\Minh\OneDrive\Desktop\ASM2 Design Pattern\ASM2 Design Pattern\obj\Debug\net6.0\ASM2 Design Pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Minh\OneDrive\Desktop\ASM2 Design Pattern\ASM2 Design Pattern\obj\Debug\net6.0\ASM2 Design Pattern.AssemblyInfoInputs.cache
+C:\Users\Minh\OneDrive\Desktop\ASM2 Design Pattern\ASM2 Design Pattern\obj\Debug\net6.0\ASM2 Design Pattern.AssemblyInfo.cs
+C:\Users\Minh\OneDrive\Desktop\ASM2 Design Pattern\ASM2 Design Pattern\obj\Debug\net6.0\ASM2 Design Pattern.csproj.CoreCompileInputs.cache
+C:\Users\Minh\OneDrive\Desktop\ASM2 Design Pattern\ASM2 Design Pattern\obj\Debug\net6.0\ASM2 Design Pattern.dll
+C:\Users\Minh\OneDrive\Desktop\ASM2 Design Pattern\ASM2 Design Pattern\obj\Debug\net6.0\refint\ASM2 Design Pattern.dll
+C:\Users\Minh\OneDrive\Desktop\ASM2 Design Pattern\ASM2 Design Pattern\obj\Debug\net6.0\ASM2 Design Pattern.pdb
+C:\Users\Minh\OneDrive\Desktop\ASM2 Design Pattern\ASM2 Design Pattern\obj\Debug\net6.0\ASM2 Design Pattern.genruntimeconfig.cache
+C:\Users\Minh\OneDrive\Desktop\ASM2 Design Pattern\ASM2 Design Pattern\obj\Debug\net6.0\ref\ASM2 Design Pattern.dll
